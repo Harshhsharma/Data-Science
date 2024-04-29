@@ -1,0 +1,135 @@
+INFO:root:log this on
+INFO:root:this is my primy
+WARNING:root:tgis is my warning message
+ERROR:root:error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:log this on
+INFO:root:this is my primy
+WARNING:root:tgis is my warning message
+ERROR:root:error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:tshis is error
+CRITICAL:root:this is serious
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is i
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:log this on
+INFO:root:this is my primy
+WARNING:root:tgis is my warning message
+ERROR:root:error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:this is error
+CRITICAL:root:this is serious
+INFO:root:this is my mesage
+ERROR:root:tshis is error
+CRITICAL:root:this is serious
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is i[1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:we are iteratingh through our list andf our local variable var is [1, 2, 3, 4, 5, 6, [2, 3, 4], ['harsg', 'ashu']]
+INFO:root:i am inside if statement and i am trying to check list
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:i am in another for loop  for list inside the element
+INFO:root:my final result for int is[1, 2, 3, 4, 5, 6, 2, 3, 4] and str is []
